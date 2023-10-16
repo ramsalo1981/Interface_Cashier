@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\bin\Debug\net7.0\CAInterface.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\bin\Debug\net7.0\CAInterface.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\bin\Debug\net7.0\CAInterface.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\bin\Debug\net7.0\CAInterface.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\bin\Debug\net7.0\CAInterface.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\obj\Debug\net7.0\CAInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\obj\Debug\net7.0\CAInterface.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\obj\Debug\net7.0\CAInterface.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\obj\Debug\net7.0\CAInterface.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\obj\Debug\net7.0\CAInterface.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\obj\Debug\net7.0\refint\CAInterface.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\obj\Debug\net7.0\CAInterface.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\obj\Debug\net7.0\CAInterface.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAInterface\obj\Debug\net7.0\ref\CAInterface.dll
